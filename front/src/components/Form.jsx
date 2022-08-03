@@ -98,8 +98,8 @@ const Form = ({ postData }) => {
                     <Text>Tamaño:</Text>
                     <Select defaultValue={''} id="size">
                         <Option value={''} hidden>Seleccionar...</Option>
-                        <Option value={'large'}>Grande</Option>
-                        <Option value={'small'}>Pequeño</Option>
+                        <Option value={'Grande'}>Grande</Option>
+                        <Option value={'Pequeño'}>Pequeño</Option>
                     </Select>
                 </Container>
                 <Container size={'100%'}>

@@ -4,7 +4,6 @@ import { useState } from 'react';
 import { publicRequest } from '../requestMethods';
 
 import Form from '../components/Form';
-import { Link } from 'react-router-dom';
 import Header from '../components/Header';
 
 const Main = styled.main`
