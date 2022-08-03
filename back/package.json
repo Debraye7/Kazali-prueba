@@ -1,0 +1,27 @@
+{
+  "name": "kazali-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./",
+    "start": "node ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Debraye7/Kazali-prueba.git"
+  },
+  "author": "Bryan Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Debraye7/Kazali-prueba/issues"
+  },
+  "homepage": "https://github.com/Debraye7/Kazali-prueba#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
